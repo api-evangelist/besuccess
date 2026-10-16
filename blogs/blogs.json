@@ -1,0 +1,21 @@
+{
+  "repo": "besuccess",
+  "feeds": [
+    {
+      "source": "https://besuccess.com/category/startup/",
+      "feed_url": "https://besuccess.com/category/startup/feed/",
+      "title": "",
+      "saved": 14,
+      "method": "discovered"
+    },
+    {
+      "source": "https://besuccess.com/category/startup/feed/",
+      "feed_url": "https://besuccess.com/category/startup/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    }
+  ],
+  "post_count": 14,
+  "fetched": "2026-10-10T13:15:00Z"
+}
